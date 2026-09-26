@@ -38,6 +38,7 @@ pip install -r requirements.txt
 ## Example Question
 
 * What are the main risks NVIDIA faces according to its 10-K?
+
 answer:
 Based on the provided context, the main risks NVIDIA faces are:
 
