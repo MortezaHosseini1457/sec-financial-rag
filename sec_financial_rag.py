@@ -9,9 +9,8 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
 from langchain_openai import ChatOpenAI
-from google.colab import userdata
 
-DAHL_API_KEY = userdata.get("DAHL_API_KEY")
+DAHL_API_KEY = os.getenv("DAHL_API_KEY")
 
 
 # SEC Identity
