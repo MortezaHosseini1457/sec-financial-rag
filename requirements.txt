@@ -1,0 +1,7 @@
+edgartools
+unstructured[all_docs]
+langchain
+langchain-openai
+langchain-community
+langchain-huggingface
+faiss-cpu
