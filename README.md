@@ -21,6 +21,10 @@ The pipeline is:
 * LLM API
 * Google Colab
 
+## Installation
+pip install -r requirements.txt
+
+
 ## Current Features
 
 * Retrieve latest 10-K NVIDIA SEC filings
